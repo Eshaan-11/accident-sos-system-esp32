@@ -20,6 +20,7 @@ This project detects accidents using an ADXL345 accelerometer and sends an SOS w
 
 ## 📐 Circuit Diagram
 ![Circuit Diagram](circuit_diagram.jpg)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/371e8df1-d2f7-461b-83e2-0b6cc3a444ac" />
 
 ## 🔄 Future Upgrades
 - Fall detection
